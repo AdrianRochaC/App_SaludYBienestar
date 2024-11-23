@@ -9,24 +9,24 @@ El objetivo de esta página web es brindar un servicio de pedidos adecuado a los
 ### Integrantes:
 
 Cesar Andres Angulo Olarte<br/>
-Laura Valentina Cubillos Buitrago
-Adrián Camilo Rocha Currea
-Ivan Santiago Valencia Hernandez
+Laura Valentina Cubillos Buitrago<br/>
+Adrián Camilo Rocha Currea<br/>
+Ivan Santiago Valencia Hernandez<br/>
 
 ### Tecnologías utilizadas: 
 
-Frontend: html, css, javascript. 
-Backend: PHP.
-Base de datos: MySQL, phpMyAdmin (administrador).
+Frontend: html, css, javascript.<br/> 
+Backend: PHP.<br/>
+Base de datos: MySQL, phpMyAdmin (administrador).<br/>
 
 ## Instrucciones de ejecución: 
 
 ### Forma local: 
 
-Instalar composer.
-Instalar librería Stripe/stripe-php.
-Instalar fpdf.
-Instalar la carpeta del proyecto con todos los archivos (html,css,javaScript,php).
+Instalar composer.<br/>
+Instalar librería Stripe/stripe-php.<br/>
+Instalar fpdf.<br/>
+Instalar la carpeta del proyecto con todos los archivos (html,css,javaScript,php).<br/>
 
 ### De Desarrollo:
 Navegador web: Google Chrome, Firefox, Microsoft Edge, Safari o cualquier otro navegador.
@@ -34,7 +34,7 @@ Navegador web: Google Chrome, Firefox, Microsoft Edge, Safari o cualquier otro n
 
 ## Instrucciones Adicionales: 
 
-Ejecutar en ventana de incognito.
+Ejecutar en ventana de incognito.<br/>
 En caso de que en el navegador salga “Sitio peligroso” dar en la opción continuar al sitio peligroso.
 
 ## Enlace del Proyecto: 
@@ -42,13 +42,13 @@ https://saludybienestar.infinityfreeapp.com/
 
 ## Características Principales:
 
-Registro de usuarios.
-Inicio de sesión.
-Visualización de productos.
-Actualización de datos.
-Carrito de compras.
-Pagos.
-Gestión de inventarios.
-Generación de facturas.
+Registro de usuarios.<br/>
+Inicio de sesión.<br/>
+Visualización de productos.<br/>
+Actualización de datos.<br/>
+Carrito de compras.<br/>
+Pagos.<br/>
+Gestión de inventarios.<br/>
+Generación de facturas.<br/>
 
 ## Licencia: MIT
