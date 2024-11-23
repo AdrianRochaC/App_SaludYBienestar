@@ -1,0 +1,147 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #D1ECFA;
+    font-family: sans-serif;
+    margin: 0;
+}
+.busqueda{
+    padding: 5px;
+    margin-right: 20px; /* Espacio a la derecha */
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.logo img {
+    height: 60px; /* Ajustar la altura del logo para que sea más pequeño */
+    width: auto; /* Mantener la proporción del logo */
+}
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.search input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.usuario{
+    padding: 10px 50px;
+}
+
+.contraseña{
+    padding: 10px 50px;
+}
+
+.search button {
+    padding: 8px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.container {
+    display: flex; /* Usar flexbox */
+    justify-content: space-between; /* Espacio entre los elementos */
+    padding: 0px 20px;
+    text-align: center;
+}
+
+.login-form {
+    flex: 4; /* Toma más espacio que la sección de información */
+    max-width: 600px; /* Puedes aumentar el ancho máximo si lo deseas */
+    min-height: 400px;
+    margin-right: 20px; /* Espacio entre el formulario y la información */
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px; /* Añadir padding para el contenido interno */
+}
+
+button {
+    background-color: rgb(45, 135, 238);
+    color: white;
+    font-size: 25px; /* Tamaño de fuente */
+    width: 40%; /* Asegurarse de que el botón ocupe todo el ancho */
+    height: 40px;
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambiar el cursor al pasar el ratón */
+    margin-top: 10px; /* Espacio entre los botones */
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.btn_registrar {
+    background-color: rgb(201, 13, 13); /* Mismo color de fondo que .iniciar */
+    color: white; /* Mismo color de texto que .iniciar */
+    font-size: 25px; /* Mismo tamaño de fuente que .iniciar */
+    width: 100%; /* Asegurarse de que el botón ocupe todo el ancho */
+    height: 40px;
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambiar el cursor al pasar el ratón */
+    margin-top: 10px; /* Espacio entre los botones */
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.info {
+    flex: 1; /* Toma menos espacio en comparación con el formulario */
+    padding: 20px; /* Añade padding a la sección de información */
+    background-color: #D1ECFA; /* Fondo para la sección de información */
+    border-radius: 5px; /* Bordes redondeados */
+    width: 80%;
+}
+
+.form {
+    margin-bottom: 20px;
+}
+
+.form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form input {
+    width: 100%; /* Asegurarse de que el input ocupe todo el ancho */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.form button {
+    width: 100%; /* Asegurarse de que el botón ocupe todo el ancho */
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+.warnings{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: red;
+    padding-top: 20px;
+}

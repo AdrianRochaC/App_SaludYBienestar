@@ -1,0 +1,450 @@
+[
+    {
+        "id": "",
+        "tipo": "tabletas",
+        "nombre": "Losartan",
+        "marca": "Genfar",
+        "precio": 12350,
+        "cantidad": 48
+    },
+    {
+        "id": "",
+        "tipo": "tabletas",
+        "nombre": "Verum",
+        "marca": "Grunenthal",
+        "precio": 25000,
+        "cantidad": 78
+    },
+    {
+        "id": "",
+        "tipo": "tabletas",
+        "nombre": "Aspirina",
+        "marca": "Bayer",
+        "precio": 15300,
+        "cantidad": 100
+    },
+    {
+        "id": "",
+        "tipo": "tabletas",
+        "nombre": "Acetaminofen",
+        "marca": "Genfar",
+        "precio": 15300,
+        "cantidad": 115
+    },
+    {
+        "id": "",
+        "tipo": "tabletas",
+        "nombre": "Ibuprofeno",
+        "marca": "Genfar",
+        "precio": 21050,
+        "cantidad": 88
+    },
+    {
+        "id": "",
+        "tipo": "tabletas",
+        "nombre": "Amoxacilina",
+        "marca": "La Santé",
+        "precio": 32100,
+        "cantidad": 135
+    },
+    {
+        "id": "",
+        "tipo": "tabletas",
+        "nombre": "Naproxeno",
+        "marca": "AG",
+        "precio": 10400,
+        "cantidad": 68
+    },
+    {
+        "id": "",
+        "categoria": "Jarabes",
+        "nombre": "Loratadina",
+        "marca": "MK",
+        "precio": 10950,
+        "stock": 76
+    },
+    {
+        "id": "",
+        "categoria": "Jarabes",
+        "nombre": "Centirizina",
+        "marca": "MK",
+        "precio": 32600,
+        "stock": 54
+    },
+    {
+        "id": "",
+        "categoria": "Jarabes",
+        "nombre": "Noraver tos",
+        "marca": "Noraver",
+        "precio": 34800,
+        "stock": 60
+    },
+    {
+        "id": "",
+        "categoria": "Vitaminas",
+        "nombre": "Vitamina C",
+        "marca": "Cebion",
+        "precio": 24800,
+        "stock": 62
+    },
+    {
+        "id": "",
+        "categoria": "Vitaminas",
+        "nombre": "Vita C",
+        "marca": "MK",
+        "precio": 20900,
+        "stock": 125
+    },
+    {
+        "id": "",
+        "categoria": "Vitaminas",
+        "nombre": "Vitamina D3",
+        "marca": "Procaps",
+        "precio": 24100,
+        "stock": 71
+    },
+    {
+        "id": "",
+        "categoria": "Vitaminas",
+        "nombre": "Redoxon",
+        "marca": "Redoxon",
+        "precio": 39900,
+        "stock": 48
+    },
+    {
+        "id": "",
+        "categoria": "Vitaminas",
+        "nombre": "Omega 3",
+        "marca": "Nutricost",
+        "precio": 46900,
+        "stock": 85
+    },
+    {
+        "id": "",
+        "categoria": "Vitaminas",
+        "nombre": "Complejo B",
+        "marca": "Genfar",
+        "precio": 25500,
+        "stock": 78
+    },
+    {
+        "id": "",
+        "categoria": "Vitaminas",
+        "nombre": "Strepsils",
+        "marca": "Strepsils",
+        "precio": 10900,
+        "stock": 76
+    },
+    {
+        "id": "",
+        "categoria": "Intravenosos",
+        "nombre": "Fluimucil",
+        "marca": "Zambon",
+        "precio": 25000,
+        "stock": 95
+    },
+    {
+        "id": "",
+        "categoria": "Intravenosos",
+        "nombre": "B-VIT-HT",
+        "marca": "Procaps",
+        "precio": 37600,
+        "stock": 80
+    },
+    {
+        "id": "",
+        "categoria": "Intravenosos",
+        "nombre": "Neurobion",
+        "marca": "DC",
+        "precio": 45000,
+        "stock": 56
+    },
+    {
+        "id": "",
+        "categoria": "Intravenosos",
+        "nombre": "Meloxicam",
+        "marca": "MK",
+        "precio": 21500,
+        "stock": 97
+    },
+    {
+        "id": "",
+        "categoria": "Intravenosos",
+        "nombre": "Amikacina",
+        "marca": "Genfar",
+        "precio": 60000,
+        "stock": 70
+    },
+    {
+        "id": "",
+        "categoria": "Intravenosos",
+        "nombre": "Diclofenalco",
+        "marca": "Genfar",
+        "precio": 55000,
+        "stock": 69
+    },
+    {
+        "id": "",
+        "categoria": "Intravenosos",
+        "nombre": "Paracetamol",
+        "marca": "Kabi",
+        "precio": 35000,
+        "stock": 57
+    },
+    {
+        "id": "",
+        "categoria": "Cosmeticos",
+        "nombre": "Polvos Compactos",
+        "marca": "Nailen",
+        "precio": 10300,
+        "stock": 89
+    },
+    {
+        "id": "",
+        "categoria": "Cosmeticos",
+        "nombre": "Pestañina",
+        "marca": "Vogue",
+        "precio": 20000,
+        "stock": 77
+    },
+    {
+        "id": "",
+        "categoria": "Cosmeticos",
+        "nombre": "Delineador Negro",
+        "marca": "Vogue",
+        "precio": 10300,
+        "stock": 59
+    },
+    {
+        "id": "",
+        "categoria": "Cosmeticos",
+        "nombre": "Balsamo Labial",
+        "marca": "Vogue",
+        "precio": 8100,
+        "stock": 78
+    },
+    {
+        "id": "",
+        "categoria": "Cuidado Personal",
+        "nombre": "Limpiador Facial",
+        "marca": "Ponds",
+        "precio": 16200,
+        "stock": 65
+    },
+    {
+        "id": "",
+        "categoria": "Cuidado Personal",
+        "nombre": "Crema Facial",
+        "marca": "Ponds",
+        "precio": 34300,
+        "stock": 55
+    },
+    {
+        "id": "",
+        "categoria": "Cuidado Personal",
+        "nombre": "Serum Facial",
+        "marca": "Garnier",
+        "precio": 54700,
+        "stock": 73
+    },
+    {
+        "id": "",
+        "categoria": "Cuidado Personal",
+        "nombre": "Removedor",
+        "marca": "Lander",
+        "precio": 6800,
+        "stock": 81
+    },
+    {
+        "id": "",
+        "categoria": "Cuidado Personal",
+        "nombre": "Pañuelos",
+        "marca": "Kleenex",
+        "precio": 5600,
+        "stock": 53
+    },
+    {
+        "id": "",
+        "categoria": "Cuidado Personal",
+        "nombre": "Jabon de Azufre",
+        "marca": "Asepxia",
+        "precio": 9180,
+        "stock": 87
+    },
+    {
+        "id": "",
+        "categoria": "Cuidado Personal",
+        "nombre": "Agua Micelar",
+        "marca": "Garnier",
+        "precio": 10480,
+        "stock": 61
+    },
+    {
+        "id": "",
+        "categoria": "Gotas",
+        "nombre": "Eye zul",
+        "marca": "Eye zul",
+        "precio": 10000,
+        "stock": 41
+    },
+    {
+        "id": "",
+        "categoria": "Gotas",
+        "nombre": "Otosec",
+        "marca": "Otosec",
+        "precio": 49760,
+        "stock": 87
+    },
+    {
+        "id": "",
+        "categoria": "Gotas",
+        "nombre": "Refresh Tears",
+        "marca": "Allercan",
+        "precio": 7700,
+        "stock": 75
+    },
+    {
+        "id": "",
+        "categoria": "Gotas",
+        "nombre": "Freegen Gotas",
+        "marca": "Freegen",
+        "precio": 63600,
+        "stock": 82
+    },
+    {
+        "id": "",
+        "categoria": "Gotas",
+        "nombre": "Fixamicin",
+        "marca": "Fixamicin",
+        "precio": 101000,
+        "stock": 65
+    },
+    {
+        "id": "",
+        "categoria": "Gotas",
+        "nombre": "Oximetazolina",
+        "marca": "MK",
+        "precio": 18100,
+        "stock": 72
+    },
+    {
+        "id": "",
+        "categoria": "Gotas",
+        "nombre": "Esencia Floral",
+        "marca": "Funat",
+        "precio": 17600,
+        "stock": 96
+    },
+    {
+        "id": "",
+        "categoria": "Anticepticos",
+        "nombre": "Alcohol Etilico",
+        "marca": "MK",
+        "precio": 10300,
+        "stock": 132
+    },
+    {
+        "id": "",
+        "categoria": "Anticepticos",
+        "nombre": "Isodine",
+        "marca": "sanfer",
+        "precio": 13680,
+        "stock": 92
+    },
+    {
+        "id": "",
+        "categoria": "Anticepticos",
+        "nombre": "Agua Oxigenada",
+        "marca": "JGB",
+        "precio": 5200,
+        "stock": 102
+    },
+    {
+        "id": "",
+        "categoria": "Anticepticos",
+        "nombre": "Bactroderm",
+        "marca": "ecar",
+        "precio": 8700,
+        "stock": 82
+    },
+    {
+        "id": "",
+        "categoria": "Anticepticos",
+        "nombre": "Neuroderm",
+        "marca": "Alquilabs",
+        "precio": 72200,
+        "stock": 45
+    },
+    {
+        "id": "",
+        "categoria": "Anticepticos",
+        "nombre": "Merthiolate",
+        "marca": "MK",
+        "precio": 20700,
+        "stock": 87
+    },
+    {
+        "id": "",
+        "categoria": "Anticepticos",
+        "nombre": "Dioxogen",
+        "marca": "JGB",
+        "precio": 5200,
+        "stock": 56
+    },
+    {
+        "id": "",
+        "categoria": "Cuidados Adicionales",
+        "nombre": "Glucometro",
+        "marca": "VivaCheck",
+        "precio": 182000,
+        "stock": 16
+    },
+    {
+        "id": "",
+        "categoria": "Cuidados Adicionales",
+        "nombre": "Tensiometro",
+        "marca": "HomeLife",
+        "precio": 145000,
+        "stock": 15
+    },
+    {
+        "id": "",
+        "categoria": "Cuidados Adicionales",
+        "nombre": "Báscula",
+        "marca": "Metaltex",
+        "precio": 180000,
+        "stock": 10
+    },
+    {
+        "id": "",
+        "categoria": "Cuidados Adicionales",
+        "nombre": "Termometro",
+        "marca": "",
+        "precio": 5000,
+        "stock": 45
+    },
+    {
+        "id": "",
+        "categoria": "Cuidados Adicionales",
+        "nombre": "Gasas Esteriles",
+        "marca": "",
+        "precio": 4600,
+        "stock": 74
+    },
+    {
+        "id": "",
+        "categoria": "Cuidados Adicionales",
+        "nombre": "Jeringa",
+        "marca": "",
+        "precio": 600,
+        "stock": 24
+    },
+    {
+        "id": "",
+        "categoria": "Cuidados Adicionales",
+        "nombre": "Curitas",
+        "marca": "",
+        "precio": 1000,
+        "stock": 100
+    }
+]
