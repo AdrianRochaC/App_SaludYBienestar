@@ -8,7 +8,7 @@ El objetivo de esta página web es brindar un servicio de pedidos adecuado a los
 
 ### Integrantes:
 
-Cesar Andres Angulo Olarte
+Cesar Andres Angulo Olarte<br/>
 Laura Valentina Cubillos Buitrago
 Adrián Camilo Rocha Currea
 Ivan Santiago Valencia Hernandez
